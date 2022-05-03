@@ -1,4 +1,5 @@
-# Medical-Data-Visualizer![Screenshot 2022-05-02 at 01-28-32 freeCodeCamp org](https://user-images.githubusercontent.com/80288850/166174091-c26e8676-5657-47ec-b59a-1a16ea60e053.png)
+# Medical-Data-Visualizer!
+
 ### Assignment
 
 For this project you will visualize time series data using a line chart, bar chart, and box plots. You will use Pandas, Matplotlib, and Seaborn to visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations will help you understand the patterns in visits and identify yearly and monthly growth.
